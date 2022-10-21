@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Simple doughnut chart using Next.js, Typescript and D3.js
+
+![alt text](https://ibb.co/sQ5LmJr)
 
 ## Getting Started
 
