@@ -1,6 +1,6 @@
 Simple doughnut chart using Next.js, Typescript and D3.js
 
-![alt text](https://ibb.co/sQ5LmJr)
+![alt text](https://github.com/Me-Naeem/d3-doughnut-nextjs/blob/develop/public/doughnut-chart.png)
 
 ## Getting Started
 
